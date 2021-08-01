@@ -41,9 +41,10 @@ matplotlib
 
 Please create your own .env file with your unique Alpaca API Key and Alpaca Secret Key in order for the Alpaca API calls to work.
 
+```python
 ALPACA_API_KEY = "<YOUR ALPACA API KEY HERE!>"
 ALPACA_SECRET_KEY = "<YOUR ALPACA SECRET KEY HERE!>"
-
+```
 
 ---
 
